@@ -1,0 +1,11 @@
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Local application secrets
+application-secrets.properties
+
+# Build output
+target/
